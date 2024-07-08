@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="APT-Project-PartB:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/APT_Project_PartB_jar</output-path>
+    <root id="archive" name="APT-Project-PartB.jar">
+      <element id="module-output" name="APT-Project-PartB" />
+    </root>
+  </artifact>
+</component>
